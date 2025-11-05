@@ -93,5 +93,18 @@ Introduces risk management: overcollateralization and liquidation.
 
 Directly related to DeFi protocols like Aave and Compound.
 
+# Output:
+
+<img width="1319" height="567" alt="Screenshot 2025-11-05 151508" src="https://github.com/user-attachments/assets/9af92ee3-b561-4b27-a708-e8e01e40baa6" />
+
+### Initial Deposit:
+
+<img width="195" height="321" alt="Screenshot 2025-11-05 151359" src="https://github.com/user-attachments/assets/b0e86063-e8b7-49a5-a69f-72a9cdec308c" />
+
+### After Borrowing the Ether:
+
+<img width="198" height="325" alt="Screenshot 2025-11-05 151453" src="https://github.com/user-attachments/assets/c8c3648f-143f-411d-a066-fa438484ed98" />
+
 # RESULT : 
+To build a decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral
 
